@@ -1,2 +1,2 @@
 ## Bootstrap Challenge  
-### Instructions https://bootcamp-coders.cnm.edu/~rlewis37/bootstrap-4-challenge/
+### Instructions https://bootcamp-coders.cnm.edu/class-materials/javascript/events/assignment.php
