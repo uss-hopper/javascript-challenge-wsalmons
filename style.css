@@ -1,0 +1,29 @@
+#div1 {
+	position: absolute;
+	left: 200px;
+	display: inline-block;
+	width: 350px;
+	height: 600px;
+	padding: 20px;
+	border: 1px solid #aaaaaa;
+}
+
+#div2 {
+	position: absolute;
+	left: 750px;
+	display: inline-block;
+	width: 350px;
+	height: 600px;
+	padding: 20px;
+	border: 1px solid #aaaaaa;
+}
+
+#div3 {
+	position: absolute;
+	left: 1300px;
+	display: inline-block;
+	width: 350px;
+	height: 600px;
+	padding: 20px;
+	border: 1px solid #aaaaaa;
+}
