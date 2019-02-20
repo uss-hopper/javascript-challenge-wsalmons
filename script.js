@@ -24,12 +24,9 @@ function blue() {
 }
 
 function fontChange(paraId) {
-	window.onclick = document.getElementById(paraId).style.fontFamily = 'Roboto';
+	window.onclick = document.getElementById(paraId).style.fontFamily = 'Jokerman-Regular';
 }
 
-function fontChangePara2() {
-	window.onclick = document.getElementById("para2").style.fontFamily = 'cursive';
-}
 
 
 
