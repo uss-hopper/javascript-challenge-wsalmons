@@ -3,7 +3,7 @@
 	left: 200px;
 	display: inline-block;
 	width: 350px;
-	height: 600px;
+	height: 200px;
 	padding: 20px;
 	border: 1px solid #aaaaaa;
 }
@@ -13,7 +13,7 @@
 	left: 750px;
 	display: inline-block;
 	width: 350px;
-	height: 600px;
+	height: 200px;
 	padding: 20px;
 	border: 1px solid #aaaaaa;
 }
@@ -23,7 +23,11 @@
 	left: 1300px;
 	display: inline-block;
 	width: 350px;
-	height: 600px;
+	height: 200px;
 	padding: 20px;
 	border: 1px solid #aaaaaa;
+}
+
+p {
+	font-family: "Comic Sans MS", sans-serif;
 }
