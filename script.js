@@ -1,3 +1,4 @@
+// drag and drop
 function allowDrop(ev) {
 	ev.preventDefault();
 }
@@ -11,6 +12,7 @@ function drop(event) {
 	event.target.appendChild(document.getElementById(data));
 }
 
+// color change
 function red() {
 	window.onclick = document.getElementById("para1").style.color = 'red';
 }
@@ -23,6 +25,8 @@ function blue() {
 	window.onclick = document.getElementById("para3").style.color = 'blue';
 }
 
+
+//font change
 function fontChange(paraId) {
 	window.onclick = document.getElementById(paraId).style.fontFamily = 'Jokerman-Regular';
 }

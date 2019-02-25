@@ -1,9 +1,10 @@
+/*switch font*/
 @font-face {
 	font-family: "Jokerman-Regular";
 	src: url('Jokerman-Regular.ttf') format("truetype");
 }
 
-
+/* Drag and drop boxes */
 #div1 {
 	position: absolute;
 	left: 200px;
@@ -34,6 +35,7 @@
 	border: 1px solid #aaaaaa;
 }
 
+/*original font*/
 p {
 	font-family: "Roboto", sans-serif;
 	font-size: 1.5rem;
